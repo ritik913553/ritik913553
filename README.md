@@ -72,9 +72,20 @@ You can find me here:
 - **LinkedIn**: [Ritik Gupta](https://www.linkedin.com/in/ritik-gupta-52aa982a7/)  
 - **Email**: [ritikgupta9135@gmail.com](mailto:ritikgupta9135@gmail.com)
 
----
 
+---
+### 📊 GitHub Stats
+
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik913553&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik913553&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ritik913553&theme=radical)
+
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ritik913553&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 💡 **Thanks for visiting my profile!** 😄
-
----
-
