@@ -1,91 +1,306 @@
-# 💫 **Hello, I'm Ritik Gupta!** 👋
+# Hi there, I'm Ritik Gupta 👋
 
-I'm a **passionate web developer** with a knack for creating **dynamic, user-centric web applications**. Currently pursuing a BCA at **Arka Jain University**, I specialize in **React** and enjoy experimenting with animations and interactive designs. I also love diving into backend development, and I'm always on the lookout to enhance my **full-stack** skills!
+<h3 align="center">AI Engineer @ Seaverse | Full Stack Developer | React Native Developer</h3>
 
----
+<p align="center">
+Building AI-powered products, scalable web applications, and cross-platform mobile experiences.
+</p>
 
-## 🚀 **About Me**
-- 🎓 **BCA Student** at **Arka Jain University** (specializing in Web Development)
-- 🔍 **200+ DSA problems** solved on **LeetCode** + **6-month intensive DSA course**
-- 🌱 Exploring **backend technologies** and **deployment processes** to create complete web solutions
+<p align="center">
+<a href="https://www.linkedin.com/in/ritik-gupta-52aa982a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://ritikg.space/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-## 🔨 **Tech Stack** 💻
+<a href="mailto:ritikgupta9135@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### **Languages**:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-### **Frontend Development**:  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)  
-![GSAP](https://img.shields.io/badge/-GSAP-88C0D0?style=flat&logo=gsap&logoColor=white)  
-![Locomotive Scroll](https://img.shields.io/badge/-Locomotive%20Scroll-000000?style=flat&logo=locomotive-scroll&logoColor=white)
-
-### **Backend Development**:  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/-Redis-D93A2B?style=flat&logo=redis&logoColor=white)  
-
-### **Real-Time Communication**:  
-![WebRTC](https://img.shields.io/badge/-WebRTC-FF3C00?style=flat&logo=webrtc&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/-Socket.io-010002?style=flat&logo=socketdotio&logoColor=white)
-
-### **DevOps & Deployment**:  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+</p>
 
 ---
 
-## 🌐 **Featured Projects** 📁
+# About Me
 
-### **🎬 [Movie App](https://movie-app-react-six-iota.vercel.app/)**
-Explore **trending movies** and **actors** with data fetched from the **TMDB API**, built using **React**.
+I'm currently working as an **AI Engineer at Seaverse**, where I build AI-powered applications, interactive 3D web experiences, and Digital Twin platforms for ocean intelligence.
 
-### **📒 Khatabook App**
-A simple **financial records manager** with a backend powered by **Express**.
+I enjoy building software that combines **Generative AI**, **Full Stack Development**, and **Mobile Development** to solve real-world problems.
 
-### **Cloned Websites**:
-- **Refokus.com** – A **design-focused** website showcasing **React animations**.
-- **Obysagency.com**, **Hotel Odisej**, **ExoApe.com** – Created with **HTML**, **CSS**, **JavaScript**, and **GSAP**, featuring effects like **infinite scroll** and **parallax scrolling**.
+Currently, my primary interests include:
 
----
-
-## 🌍 **Portfolio**  
-Visit my portfolio to explore more about my work and see the projects I’ve created:  
-**[My Portfolio](https://portfolio-gules-iota-77.vercel.app/)**
+- 🤖 AI Agents
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 📱 React Native & Expo
+- 🌐 Full Stack Development
+- ☁️ Cloud Deployment & DevOps
 
 ---
 
-## 🌱 **What’s Next?**
+# Experience
 
-I’m diving deeper into **backend development**, learning **Node.js**, **MongoDB**, and **real-time communication** with **WebRTC** and **Socket.io**. I’m also exploring **Docker** for **application deployment** to scale up my full-stack projects.  
-I’m excited to continue growing and building impactful applications!
+## 🚀 AI Engineer | Software Developer
+
+**Seaverse**  
+**Nov 2025 – Present**
+
+- Built the official 3D company website using React, Three.js, GSAP and Framer Motion.
+- Developing a Digital Twin Dashboard for real-time ocean intelligence.
+- Working on multiple AI-powered platforms and intelligent automation tools.
+- Building scalable frontend architectures integrated with AI services.
+
+---
+
+## 💼 Web Developer Intern
+
+**Vizztal Digital Solution**  
+**May 2025 – July 2025**
+
+Worked on multiple production applications including:
+
+- Caprio Store (E-Commerce)
+- Vizztal Car Solution
+
+Responsibilities:
+
+- Backend Development
+- REST APIs
+- MongoDB
+- Authentication
+- React Development
+- Deployment Support
 
 ---
 
-## 📫 **Let's Connect!**  
-You can find me here:  
-- **LinkedIn**: [Ritik Gupta](https://www.linkedin.com/in/ritik-gupta-52aa982a7/)  
-- **Email**: [ritikgupta9135@gmail.com](mailto:ritikgupta9135@gmail.com)
+# Tech Stack
 
+## Languages
 
----
-### 📊 GitHub Stats
-
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik913553&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik913553&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ritik913553&theme=radical)
-
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ritik913553&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp" />
+</p>
 
 ---
-💡 **Thanks for visiting my profile!** 😄
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,threejs" />
+</p>
+
+**Also Experienced With**
+
+- GSAP
+- Framer Motion
+- Redux
+
+---
+
+## Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+</p>
+
+- React Native
+- Expo
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" />
+</p>
+
+- REST APIs
+
+---
+
+## AI & LLM Development
+
+- OpenAI API
+- LangChain
+- LangGraph
+- OpenAI Agents SDK
+- RAG
+- Qdrant
+- Vector Databases
+- Semantic Search
+- Prompt Engineering
+- Embeddings
+- LLM Integration
+- AI Agents
+- NotebookLM Architecture
+
+---
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,vercel,postman,vscode" />
+</p>
+
+---
+
+# Featured Projects
+
+## 🤖 Personal AI Buddy *(Currently Building)*
+
+An AI-powered personal assistant available on **Web** and **Mobile**.
+
+### Features
+
+- AI Chat
+- Expense Tracking
+- Smart Notes
+- Idea Management
+- Task Management
+- Reminder System
+- Daily Planner
+- Personal Knowledge Base
+- Semantic Search
+- AI-powered Recommendations
+
+### Tech Stack
+
+- React
+- React Native
+- Expo
+- Node.js
+- OpenAI API
+- LangGraph
+- RAG
+- Vector Database
+
+---
+
+## 📚 NotebookLM — RAG Knowledge Assistant
+
+A Retrieval-Augmented Generation platform inspired by Google's NotebookLM.
+
+### Features
+
+- Upload PDFs
+- Upload DOCX
+- Upload PPT
+- Website Crawling
+- AI Chat
+- Context Retrieval
+- Semantic Search
+- Source Referencing
+
+### Tech Stack
+
+- React
+- Node.js
+- LangChain
+- OpenAI API
+- Qdrant
+- RAG
+
+---
+
+## 🛒 Caprio Store
+
+A production-ready E-Commerce platform.
+
+### Features
+
+- Authentication
+- Admin Dashboard
+- Payment Integration
+- Shipment Tracking
+- Product Management
+- Order Management
+
+### Tech Stack
+
+- React
+- Tailwind CSS
+- Node.js
+- Express
+- MongoDB
+- 
+---
+
+# Currently Learning
+
+- Multi-Agent Systems
+- MCP (Model Context Protocol)
+- Advanced LangGraph
+- Advanced RAG Architectures
+- Docker
+- Kubernetes
+- AWS
+- System Design
+
+---
+
+# Portfolio
+
+🌐 **Portfolio**
+
+https://ritikg.space/
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ritik913553&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik913553&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ritik913553&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik913553&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ritik913553&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ritik-gupta-52aa982a7/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:ritikgupta9135@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://ritikg.space/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *Building AI-powered software that transforms ideas into intelligent products.*
+
+</p>
